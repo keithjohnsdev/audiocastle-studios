@@ -1,0 +1,152 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: rgb(97, 82, 65);
+    min-height: 100%;
+}
+
+.navbar-brand {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 300;
+    font-size: 175%;
+}
+
+.brand-accent {
+    color: rgb(255, 223, 176);
+    font-weight: 700;
+}
+
+.nav-link {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 130%;
+    font-weight: 300;
+    padding: 5px;
+}
+
+.nav-item {
+    padding-right: 15px;
+}
+
+#landing-page {
+    background-color: rgb(0, 0, 0);
+    background: url(images/studio-background2.png);
+    background-size: cover;
+    text-align: center;
+    padding: 80px 0 30px;
+}
+
+h1 {
+    color: rgb(209, 223, 235);
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: 700;
+    line-height: 170%;
+}
+
+h2 {
+    color: blanchedalmond;
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: 700;
+    line-height: 170%;
+}
+
+.hr {
+    color: white;
+    font-weight: 100;
+    font-family: 'Open Sans Condensed', sans-serif;
+    margin-bottom: -10px;
+}
+
+#contact-btn {
+    margin: 100px 0 60px;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 2.7rem;
+    padding: 10px 20px;
+}
+
+.logo {
+    width: 100px;
+    margin: 8px;
+    opacity: 0.75;
+}
+
+.logos-div {
+    margin-top: 70px;
+}
+
+.logos-div2 {
+    margin-top: 50px;
+}
+
+#our-work {
+    background-color: rgb(90, 74, 55);
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.work-heading {
+    font-size: 320%;
+    padding-top: 35px;
+}
+
+#carouselExampleCaptions {
+    margin-top: -40px;
+}
+
+.carousel-control-prev {
+    margin: 145px 0;
+}
+
+.carousel-control-next {
+    margin: 145px 0;
+}
+
+#about {
+    background: url(images/b3-background-blue-blur.png);
+    background-size: cover;
+    text-align: center;
+}
+
+.about {
+    color: blanchedalmond;
+}
+
+.bio {
+    color: rgb(252, 240, 223);
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 400;
+    font-size: 150%;
+    margin: 30px 0 -20px;
+    padding: 0 15%;
+}
+
+.film {
+    margin: 0 20px 20px;
+}
+
+.film-score {
+    margin-bottom: 200px;
+}
+
+@media (max-width: 960px) {
+    .work-video {
+        width: 90%;
+        height: 60%;
+    }
+
+    #landing-page {
+    }
+
+    .carousel-control-prev {
+        margin: 190px 0;
+    }
+    
+    .carousel-control-next {
+        margin: 190px 0;
+    }
+}
+
+#__genieContainer {
+    display: none;
+}

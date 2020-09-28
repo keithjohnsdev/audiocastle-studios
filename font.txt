@@ -1,0 +1,3 @@
+https://fonts.google.com/specimen/Open+Sans+Condensed?preview.text=AUDIOCASTLE&preview.text_type=custom&sidebar.open=true&selection.family=Open+Sans+Condensed:wght@300;700
+
+font-family: 'Open Sans Condensed', sans-serif;
