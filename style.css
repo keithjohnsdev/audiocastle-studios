@@ -154,6 +154,10 @@ h2 {
     .carousel-control-next {
         margin: 190px 0;
     }
+
+    h1 {
+        line-height: normal;
+    }
 }
 
 @media (max-width: 610px) {
@@ -171,6 +175,8 @@ h2 {
 
     #contact-btn {
         margin: 80px 0 20px;
+    }
+
 }
 
 #__genieContainer {
