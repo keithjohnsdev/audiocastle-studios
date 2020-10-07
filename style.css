@@ -177,6 +177,7 @@ h2 {
 
     .tagline-1 {
         font-size: 300%;
+        line-height: normal;
     }
 
     .tagline-2 {
