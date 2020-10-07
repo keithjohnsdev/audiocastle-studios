@@ -63,7 +63,7 @@ h2 {
 }
 
 .tagline-2 {
-    font-size: 250%;
+    font-size: 200%;
 }
 
 #contact-btn {
@@ -158,6 +158,12 @@ h2 {
     h1 {
         line-height: normal;
     }
+
+    .tagline-2 {
+        margin-top: 30px;
+        line-height: normal;
+    }
+
 }
 
 @media (max-width: 610px) {
@@ -170,7 +176,7 @@ h2 {
     }
 
     .tagline-2 {
-        font-size: 200%;
+        font-size: 170%;
     }
 
     #contact-btn {
