@@ -178,11 +178,13 @@ h2 {
     .tagline-1 {
         font-size: 300%;
         line-height: normal;
+        margin: 0 0 10px;
     }
 
     .tagline-2 {
         font-size: 170%;
         line-height: normal;
+        margin: 0 0 10px;
     }
 
     #contact-btn {
