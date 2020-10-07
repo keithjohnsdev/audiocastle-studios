@@ -181,6 +181,7 @@ h2 {
 
     .tagline-2 {
         font-size: 170%;
+        line-height: normal;
     }
 
     #contact-btn {
